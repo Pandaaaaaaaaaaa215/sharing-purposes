@@ -1,0 +1,254 @@
+# ══════════════════════════════════════════════════════════
+#  MOSAIC TTS — Starter Clip Library
+# ══════════════════════════════════════════════════════════
+#
+#  Usage:  python clip_scraper.py urls starter_urls.txt
+#
+#  Format: URL [start] [end] [label]
+#    - start/end are optional (0:30 format)
+#    - label is optional custom filename
+#    - Lines starting with # are comments
+#
+#  Whisper will auto-transcribe everything, so even long
+#  compilations get sliced into individual labeled clips!
+#
+#  ⚠ These are for PERSONAL/PRIVATE use in a Discord VC
+#    soundboard. Not for redistribution.
+# ══════════════════════════════════════════════════════════
+
+
+# ──────────────────────────────────────────────
+#  MEME SOUND EFFECTS (short, punchy clips)
+# ──────────────────────────────────────────────
+
+# Vine boom / bruh / oof / among us — classic meme sounds
+https://www.youtube.com/watch?v=2xnzCMSGYjA meme_sounds_compilation
+
+# "To Be Continued" + roundabout meme
+https://www.youtube.com/watch?v=nOPIu7isD3s 0:00 0:08 to_be_continued
+
+# Sad violin meme
+https://www.youtube.com/watch?v=QuNhTLVgV2Y 0:00 0:15 sad_violin
+
+# Windows XP error sound
+https://www.youtube.com/watch?v=0lhhrUuw2N8 0:00 0:05 windows_error
+
+# MLG airhorn
+https://www.youtube.com/watch?v=a_6CZ2JCKcU 0:00 0:05 airhorn
+
+# Crickets (awkward silence)
+https://www.youtube.com/watch?v=K8E_zMLCRNg 0:00 0:08 crickets_awkward
+
+# Dramatic chipmunk
+https://www.youtube.com/watch?v=a1Y73sPHKxw 0:00 0:06 dramatic_chipmunk
+
+# Law & Order "dun dun"
+https://www.youtube.com/watch?v=gP3MuUTmXNk 0:00 0:04 dun_dun
+
+# Curb Your Enthusiasm theme
+https://www.youtube.com/watch?v=q9RAZxNdCk8 0:00 0:15 curb_your_enthusiasm
+
+# Halo announcer - "Killing Spree" etc
+https://www.youtube.com/watch?v=DfEWjMIa0H8 halo_announcer_medals
+
+
+# ──────────────────────────────────────────────
+#  REACTIONS & EXPRESSIONS
+# ──────────────────────────────────────────────
+
+# Surprised Pikachu energy — "wait what?"
+https://www.youtube.com/watch?v=NIgfiSzCy1o 0:00 0:05 wait_what
+
+# "Noooo!" compilation
+https://www.youtube.com/watch?v=Tim5nU3DwIE 0:00 0:30 nooo_compilation
+
+# Wow - Owen Wilson
+https://www.youtube.com/watch?v=dn5Tattkj_E owen_wilson_wow
+
+# Laughing sounds / contagious laughter
+https://www.youtube.com/watch?v=p32OC97aNqc 0:00 0:30 contagious_laughter
+
+# Evil laugh
+https://www.youtube.com/watch?v=R6MlHxAzLXA 0:00 0:10 evil_laugh
+
+# Crowd cheering
+https://www.youtube.com/watch?v=barWV7RWkq0 0:00 0:10 crowd_cheer
+
+# Audience "ohhh!" reaction
+https://www.youtube.com/watch?v=Y8EMndSFFMk 0:00 0:06 audience_ohhh
+
+# Sad "Aww" audience reaction
+https://www.youtube.com/watch?v=2uhD5pMGrKc 0:00 0:05 audience_aww
+
+
+# ──────────────────────────────────────────────
+#  MOVIE QUOTE COMPILATIONS
+#  (Whisper slices these into individual quotes!)
+# ──────────────────────────────────────────────
+
+# WatchMojo Top 100 Movie Quotes — great variety
+https://www.youtube.com/watch?v=b0KFMbGSXqU watchmojo_top100_movie_quotes
+
+# AFI 100 Greatest Movie Quotes
+https://www.youtube.com/watch?v=AFKJefMjwMI afi_100_movie_quotes
+
+# Iconic one-liners — short punchy quotes
+https://www.youtube.com/watch?v=2rn-vMbFglI iconic_one_liners
+
+# Best movie insults compilation
+https://www.youtube.com/watch?v=PSEYXWmEse8 best_movie_insults
+
+
+# ──────────────────────────────────────────────
+#  EVERYDAY EXPRESSIONS & CATCHPHRASES
+#  (stuff that matches common chat messages)
+# ──────────────────────────────────────────────
+
+# "That's what she said" — The Office
+https://www.youtube.com/watch?v=ClzJkv3dpY8 0:00 1:00 thats_what_she_said
+
+# "Why are you the way that you are" — The Office
+https://www.youtube.com/watch?v=aYmOqPFyJPw 0:00 0:10 why_are_you_like_this
+
+# Spongebob sound effects & quotes
+https://www.youtube.com/watch?v=Hy8kmNEo1i8 spongebob_sounds
+
+# Family Guy funny moments (short)
+https://www.youtube.com/watch?v=4SiUNdkIwzQ 0:00 2:00 family_guy_moments
+
+# Vine compilations — short, punchy, meme-rich
+https://www.youtube.com/watch?v=BnrUjJQGkFo vine_compilation
+
+# Classic vines that everyone quotes
+https://www.youtube.com/watch?v=GaqPcMq5cDo classic_vines_quotes
+
+
+# ──────────────────────────────────────────────
+#  GAMING SOUNDS
+# ──────────────────────────────────────────────
+
+# Minecraft sounds (damage, eat, explosion, etc.)
+https://www.youtube.com/watch?v=dgha9S39Y6M minecraft_all_sounds
+
+# GTA Wasted sound
+https://www.youtube.com/watch?v=DsiVRBbhlPs 0:00 0:06 gta_wasted
+
+# Mario sounds compilation
+https://www.youtube.com/watch?v=5kr3BkxGi3o 0:00 1:00 mario_sounds
+
+# Dark Souls "YOU DIED"
+https://www.youtube.com/watch?v=j_nV2jcTFvA 0:00 0:08 you_died
+
+# Metal Gear Solid alert sound
+https://www.youtube.com/watch?v=2P5qbcRAXVk 0:00 0:05 mgs_alert
+
+
+# ──────────────────────────────────────────────
+#  NARRATION & FILLER (good for general matching)
+# ──────────────────────────────────────────────
+
+# Morgan Freeman narration clips
+https://www.youtube.com/watch?v=Ch5MEJk5ZCQ 0:00 2:00 morgan_freeman_narration
+
+# David Attenborough narration
+https://www.youtube.com/watch?v=enu-qR0H_uk 0:00 2:00 attenborough_narration
+
+# Movie trailer voice guy
+https://www.youtube.com/watch?v=7QPMvj_xejg 0:00 1:00 trailer_voice
+
+
+# ──────────────────────────────────────────────
+#  MUSIC STINGERS & TRANSITIONS
+# ──────────────────────────────────────────────
+
+# Ba dum tss (rimshot)
+https://www.youtube.com/watch?v=ObpcGNCU944 0:00 0:04 ba_dum_tss
+
+# Suspense/tension build
+https://www.youtube.com/watch?v=bGvuQofeYCA 0:00 0:10 suspense_sting
+
+# Victory fanfare (FF style)
+https://www.youtube.com/watch?v=usfiAsWR4qU 0:00 0:10 victory_fanfare
+
+# Fail sound / Price is Right losing horn
+https://www.youtube.com/watch?v=_asNhzXq72w 0:00 0:08 fail_horn
+
+
+# ══════════════════════════════════════════════
+#  TIPS:
+#  - Run: python clip_scraper.py urls starter_urls.txt
+#  - Some URLs may not work (removed/region-locked)
+#    — the scraper will skip them and continue
+#  - Long compilations are GREAT — Whisper auto-slices
+#    them into individual labeled clips
+#  - Add your own URLs below!
+# ══════════════════════════════════════════════
+
+
+# ──────────────────────────────────────────────
+#  SILLY / ABSURD / ANIMATED
+# ──────────────────────────────────────────────
+
+# Kronk "Oh yeah, it's all coming together"
+https://www.youtube.com/watch?v=QyrDgEz3DR0 kronk_its_all_coming_together
+
+# Emperor's New Groove — best moments
+https://www.youtube.com/watch?v=ydVp-2B8qlg emperors_new_groove_moments
+
+# Kronk wrong lever
+https://www.youtube.com/watch?v=HfIxMNm7roU kronk_wrong_lever
+
+# Shrek best quotes
+https://www.youtube.com/watch?v=CwEJTxPMkfc shrek_best_quotes
+
+# Megamind "No bitches?" / Presentation
+https://www.youtube.com/watch?v=1z-AxgueBRk megamind_presentation
+
+# Buzz Lightyear "falling with style"
+https://www.youtube.com/watch?v=DwN6efmhp7E buzz_falling_with_style
+
+# Monsters Inc "I'm watching you Wazowski"
+https://www.youtube.com/watch?v=RtWBlDC2-ss monsters_inc_watching_you
+
+# Ratatouille — best Remy moments
+https://www.youtube.com/watch?v=3YGBOJIroSA ratatouille_moments
+
+# Gru "Gorls" / Despicable Me
+https://www.youtube.com/watch?v=yqBPYjJE7S0 gru_gorls
+
+# Puss in Boots dramatic gasp
+https://www.youtube.com/watch?v=PMIqlSTFo5o puss_in_boots_gasp
+
+# SpongeBob — "I'm ready!" and other classics
+https://www.youtube.com/watch?v=G7MoXPxA5LM spongebob_im_ready
+
+# Patrick Star "is mayonnaise an instrument"
+https://www.youtube.com/watch?v=71GWS3ccmvI patrick_mayonnaise
+
+# Bugs Bunny "of course you realize this means war"
+https://www.youtube.com/watch?v=4xhCkgAOCb0 bugs_bunny_war
+
+# Skeletor disturbing facts
+https://www.youtube.com/watch?v=zh6zr3wKRV0 skeletor_facts
+
+# Zapp Brannigan best quotes (Futurama)
+https://www.youtube.com/watch?v=406KqNDgKuI zapp_brannigan_quotes
+
+# Jack Sparrow best moments
+https://www.youtube.com/watch?v=dOsVohtbgxc jack_sparrow_moments
+
+# Samuel L Jackson "say what again"
+https://www.youtube.com/watch?v=qo5jnBJvGUs samuel_l_jackson_moments
+
+# Arnold Schwarzenegger one-liners
+https://www.youtube.com/watch?v=pDxn0Xfqkgw arnold_one_liners
+
+# Princess Bride — "Inconceivable!" etc
+https://www.youtube.com/watch?v=wUJccK4lV74 princess_bride_quotes
+
+# Nacho Libre best moments
+https://www.youtube.com/watch?v=WEfGS5JBJiA nacho_libre_moments
+
+
+# YOUR CUSTOM URLS BELOW:
+# https://www.youtube.com/watch?v=YOUR_VIDEO_HERE

@@ -1,0 +1,7 @@
+discord.py>=2.0
+openai-whisper
+sentence-transformers
+pydub
+sounddevice
+numpy
+matplotlib
